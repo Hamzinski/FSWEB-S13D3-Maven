@@ -49,6 +49,7 @@ public class Person {
         System.out.println("Firstname: "+ person1.getFirstName() );
         System.out.println("LastName: " + person1.getLastName());
         System.out.println("Age: " + person1.getAge());
+        System.out.println("Teen: " + person1.isTeen());
         System.out.println("Job: " + person2.getJobName());
         System.out.println("Marriage Status: " + person2.getMarriage());
         System.out.println("Graduation Status: " + person2.getGraduate());
